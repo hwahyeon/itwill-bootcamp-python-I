@@ -11,6 +11,6 @@
 - Web Crawling
 - Flask
 
-## 학습 환경
+## 학습 환경 및 도구
 - pycharm-community-2019.3.4
 - python-3.7.7-amd64
